@@ -4,6 +4,8 @@ The world's first open source low-code development platform. Build responsive mi
 
 Coming soon! Stay tuned by following us on [twitter](https://www.twitter.com/rintagi)
 
+### [User Guide](docs.rintagi.com) 
+
 ### Features
 
 + High Productivity
