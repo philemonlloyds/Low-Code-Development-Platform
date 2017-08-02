@@ -8,10 +8,13 @@ Coming soon! Stay tuned by following us on [twitter](https://www.twitter.com/rin
 
 ### [Dependencies](https://www.rintagi.com/docs/site/Initial-Setup/index.html#dependencies)
 
+ #### [Operating System Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#operating-system-requirements)
+ #### [Software Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#software-requirements)
+ 
 ### Configuration Setup
 
-#### [Windows 10 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-10-configuration-requirement) 
-#### [Windows 8.1 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-81-configuration-requirement) 
+   #### [Windows 10 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-10-configuration-requirement) 
+   #### [Windows 8.1 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-81-configuration-requirement) 
 
 ### [Setting up Development System](https://www.rintagi.com/docs/site/Initial-Setup/index.html#installation)  
 
