@@ -7,7 +7,7 @@ Coming soon! Stay tuned by following us on [twitter](https://www.twitter.com/rin
 
 ## Table of content
 
-- [How To Use](#how to use)
+- [How To Use](#how To Use)
 - [Download](#download)
 - [Installation](#installation)
 - [Features](#features)
