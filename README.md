@@ -34,11 +34,13 @@ All demos and examples, whether in a code project’s repository or displayed on
 
 ### Links 
 
-*[Rintagi Development User Guide](https://www.rintagi.com/docs/site/index.html)
-*[Operating System Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#operating-system-requirements)
-*[Software Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#software-requirements)
-*[Windows 10 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-10-configuration-requirement) 
-*[Windows 8.1 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-81-configuration-requirement) 
+* [Rintagi Development User Guide](https://www.rintagi.com/docs/site/index.html)
+* [Operating System Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#operating-system-requirements)
+* [Software Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#software-requirements)
+* [Windows 10 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-10-configuration-requirement) 
+* [Windows 8.1 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-81-configuration-requirement) 
+
+
 
 ## Author
 Developed and maintaned by [Robocoder Corporation](https://www.robocoder.com).
