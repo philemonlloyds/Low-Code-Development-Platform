@@ -8,7 +8,7 @@ Coming soon! Stay tuned by following us on [twitter](https://www.twitter.com/rin
 ## Table of content
 
 - [Installation](#installation)
-- [Features](#Features)
+- [Features](#features)
 - [License](#license)
 - [Links](#links)
 - [Author](#Author)
