@@ -4,20 +4,17 @@ The world's first open source low-code development platform. Build responsive mi
 
 Coming soon! Stay tuned by following us on [twitter](https://www.twitter.com/rintagi)
 
-### [Rintagi Development User Guide](https://www.rintagi.com/docs/site/index.html)
 
-### Dependencies
+## Table of content
 
- + [Operating System Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#operating-system-requirements)
- + [Software Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#software-requirements)
- 
-### Configuration Setup
+- [Installation](#installation)
+- [Features](#Features)
+- [Author](#Author)
+- [License](#license)
+- [Links](#links)
 
-   + [Windows 10 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-10-configuration-requirement) 
-   + [Windows 8.1 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-81-configuration-requirement) 
-
-  + [Setting up Development System](https://www.rintagi.com/docs/site/Initial-Setup/index.html#installation)  
-
+### Installation
+   * [Setting up Development System](https://www.rintagi.com/docs/site/Initial-Setup/index.html#installation)  
 
 ### Features
 
@@ -30,10 +27,18 @@ Coming soon! Stay tuned by following us on [twitter](https://www.twitter.com/rin
 + Massive Scalability
 + Built-in Security
 
-### Author
+## Author
 
 Developed and maintaned by [Robocoder Corporation](https://www.robocoder.com).
 
 ### License
 
 All demos and examples, whether in a code project’s repository or displayed on [rintagi.com](https://www.rintagi.com), are released under the terms of [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
+
+### Links 
+
+*[Rintagi Development User Guide](https://www.rintagi.com/docs/site/index.html)
+*[Operating System Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#operating-system-requirements)
+*[Software Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#software-requirements)
+*[Windows 10 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-10-configuration-requirement) 
+*[Windows 8.1 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-81-configuration-requirement) 
