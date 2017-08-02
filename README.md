@@ -9,7 +9,6 @@ Coming soon! Stay tuned by following us on [twitter](https://www.twitter.com/rin
 ### Configuration Setup
 
 #### [Windows 10 Configuration Requirement](http://docs.rintagi.com/Initial-Setup/#windows-10-configuration-requirement) 
-
 #### [Windows 8.1 Configuration Requirement](http://docs.rintagi.com/Initial-Setup/#windows-81-configuration-requirement) 
 
 ### [Setting up Development System](http://docs.rintagi.com/Initial-Setup/#installation)  
