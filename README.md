@@ -4,16 +4,16 @@ The world's first open source low-code development platform. Build responsive mi
 
 Coming soon! Stay tuned by following us on [twitter](https://www.twitter.com/rintagi)
 
-### [Rintagi User Guide](http://docs.rintagi.com/)
+### [Rintagi User Guide](https://www.rintagi.com/docs/site/index.html)
 
-### [Dependencies](http://docs.rintagi.com/Initial-Setup/#dependencies)
+### [Dependencies](https://www.rintagi.com/docs/site/Initial-Setup/index.html#dependencies)
 
 ### Configuration Setup
 
-#### [Windows 10 Configuration Requirement](http://docs.rintagi.com/Initial-Setup/#windows-10-configuration-requirement) 
-#### [Windows 8.1 Configuration Requirement](http://docs.rintagi.com/Initial-Setup/#windows-81-configuration-requirement) 
+#### [Windows 10 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-10-configuration-requirement) 
+#### [Windows 8.1 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-81-configuration-requirement) 
 
-### [Setting up Development System](http://docs.rintagi.com/Initial-Setup/#installation)  
+### [Setting up Development System](https://www.rintagi.com/docs/site/Initial-Setup/index.html#installation)  
 
 
 ### Features
