@@ -6,6 +6,8 @@ Coming soon! Stay tuned by following us on [twitter](https://www.twitter.com/rin
 
 ### [Rintagi User Guide](http://docs.rintagi.com/)
 
+### [Dependencies](http://docs.rintagi.com/Initial-Setup/#dependencies)
+
 ### Configuration Setup
 
 #### [Windows 10 Configuration Requirement](http://docs.rintagi.com/Initial-Setup/#windows-10-configuration-requirement) 
