@@ -7,11 +7,25 @@ Coming soon! Stay tuned by following us on [twitter](https://www.twitter.com/rin
 
 ## Table of content
 
+- [How To Use](#how to use)
+- [Download](#download)
 - [Installation](#installation)
 - [Features](#features)
 - [License](#license)
 - [Links](#links)
 - [Author](#Author)
+
+
+### How to Use 
+To clone and run this application, you'll need the below dependencies installed on your computer.
+* [Operating System Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#operating-system-requirements)
+* [Software Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#software-requirements)
+
+Apart from this, please find specific installation requriements based on your version of windows in the Rintagi User Guide, also given in the links below.
+
+
+### Download
+ You can [download]() latest installable version of Rintagi for Windows .
 
 ### Installation
    * [Setting up Development System](https://www.rintagi.com/docs/site/Initial-Setup/index.html#installation)  
