@@ -1,12 +1,3 @@
-<p align="center"><img width=12.5% src="https://github.com/rintagi/blob/master/media/Logo.png"></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
-[![Code Climate](https://img.shields.io/codeclimate/issues/github/me-and/mdf.svg)](https://github.com/rintagi/issues)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-[![License](https://img.shields.io/hexpm/l/plug.svg)](https://opensource.org/licenses/Apache-2.0)
-
-
 ## Low-Code-Development-Platform
 
 The world's first open source low-code development platform. Build responsive mission-critical database systems with beautiful web interface.  The only code you need to worry about is unique business rules on three tiers.
