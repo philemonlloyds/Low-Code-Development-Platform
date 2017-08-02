@@ -6,7 +6,7 @@ Coming soon! Stay tuned by following us on [twitter](https://www.twitter.com/rin
 
 ### [Rintagi User Guide](https://www.rintagi.com/docs/site/index.html)
 
-### [Dependencies](https://www.rintagi.com/docs/site/Initial-Setup/index.html#dependencies)
+### Dependencies
 
  #### [Operating System Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#operating-system-requirements)
  #### [Software Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#software-requirements)
