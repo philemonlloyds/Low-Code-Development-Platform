@@ -9,9 +9,9 @@ Coming soon! Stay tuned by following us on [twitter](https://www.twitter.com/rin
 
 - [Installation](#installation)
 - [Features](#Features)
-- [Author](#Author)
 - [License](#license)
 - [Links](#links)
+- [Author](#Author)
 
 ### Installation
    * [Setting up Development System](https://www.rintagi.com/docs/site/Initial-Setup/index.html#installation)  
@@ -27,9 +27,6 @@ Coming soon! Stay tuned by following us on [twitter](https://www.twitter.com/rin
 + Massive Scalability
 + Built-in Security
 
-## Author
-
-Developed and maintaned by [Robocoder Corporation](https://www.robocoder.com).
 
 ### License
 
@@ -42,3 +39,6 @@ All demos and examples, whether in a code project’s repository or displayed on
 *[Software Requirements](https://www.rintagi.com/docs/site/Initial-Setup/index.html#software-requirements)
 *[Windows 10 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-10-configuration-requirement) 
 *[Windows 8.1 Configuration Requirement](https://www.rintagi.com/docs/site/Initial-Setup/index.html#windows-81-configuration-requirement) 
+
+## Author
+Developed and maintaned by [Robocoder Corporation](https://www.robocoder.com).
